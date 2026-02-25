@@ -1,16 +1,16 @@
 {
-  "version": "2.14.2",
+  "version": "2.15.0",
   "description": "Multi-tool CLI for issue tracking, citations, commits, and distribution",
   "homepage": "https://github.com/toba/jig",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/toba/jig/releases/download/v2.14.2/jig_windows_amd64.zip",
-      "hash": "b60f3dde9bf11e94b1d879446714ff51099a3a059774789caa900ed106f6c134"
+      "url": "https://github.com/toba/jig/releases/download/v2.15.0/jig_windows_amd64.zip",
+      "hash": "9d2d74bed73afa6167b5ba9b48bf833a5661ea44713692ac0159bea8e2472f01"
     },
     "arm64": {
-      "url": "https://github.com/toba/jig/releases/download/v2.14.2/jig_windows_arm64.zip",
-      "hash": "1298714d19b95bc78c89b26c2371f61cabd90fdb56fd022f4ad6ddcb2c814212"
+      "url": "https://github.com/toba/jig/releases/download/v2.15.0/jig_windows_arm64.zip",
+      "hash": "900a438f40c6ebc15f37238a1a38ae9944db3dba0a391d67fbb9ff9625f13a9a"
     }
   },
   "bin": [
